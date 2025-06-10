@@ -7,7 +7,7 @@ NuttX Board Standard
 
 Instead of having many different boards with different form-factors,
 peripherals, etc, we could have a common baseboard with a standized
-connector to support plug-in differents MCUs modules.
+connector to support plugging in different MCU modules.
 
 This approach will simplify and reduce testing time.
 
